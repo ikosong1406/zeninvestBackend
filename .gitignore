@@ -1,0 +1,39 @@
+# Node.js and Express specific
+node_modules/
+npm-debug.log
+.env
+
+# macOS specific
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Dependencies installed by npm or yarn
+package-lock.json
+yarn.lock
+
+# IDEs and editors
+.vscode/
+.idea/
+*.code-workspace
+
+# Compiled output
+dist/
+build/
+
+# Cache and debugging files
+.cache/
+.pnp/
+.pnp.js
+.npm/
+
+# Environment variables file (change this if your file is named differently)
+.env.local
+
+# Miscellaneous
+*.bak
+*.swp
+*.tmp
+*.pid
